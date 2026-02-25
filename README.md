@@ -1,4 +1,4 @@
-# Weather Website 🌦️
+# Weather Website 
 
 This is a simple weather website that shows real-time weather information for any city.
 
